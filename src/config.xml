@@ -4,7 +4,6 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 <bean class="com.app.Student" name="sobj">
 <property name="stdId" value="11"/>
-<property name="stdName" value="AS"/>
 </bean>
 
 </beans>
